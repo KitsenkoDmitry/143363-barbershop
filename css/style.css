@@ -176,6 +176,16 @@ header {
   width: 140px;
 }
 
+.footer-social ul {
+  margin: 0;
+  padding: 0;
+}
+
+.footer-social li{
+  float: left;
+  list-style: none;
+}
+
 .footer-copyright {
   float: right;
   width: 140px;
